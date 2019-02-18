@@ -6,8 +6,9 @@ Though features of attendance counting is still static and feel free to help me 
 
 To run the programs followings steps are required to follow:-
 
-STEP 1: Install pyqt5 GUI framework
+STEP 1: Install pyqt5 GUI framework and twilio library for sms
 pip install pyqt5
+pip install twilio
 
 STEP 2: To run the program, run the Login.py file at location of files
 python Login.py
