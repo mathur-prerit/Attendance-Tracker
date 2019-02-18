@@ -1,0 +1,5 @@
+1.Student having attendance less than 60% will sem debarded.
+
+2.Everyone must give external practicals.
+
+3Minor Report must be according to prescribed format.
